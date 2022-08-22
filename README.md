@@ -3,8 +3,10 @@
 Hey i am Tunis weather 🇹🇳 you can use me to know Tunis weather🇹🇳 , i'm friendly and easy to use ! Created By Aymen Ghnia
 Test this bot now :  https://t.me/TunisWeather_bot
 
+--- 
 
-Weather api : https://home.openweathermap.org/     | 
+
+Weather api : https://home.openweathermap.org/      
 
 
 
