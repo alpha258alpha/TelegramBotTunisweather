@@ -1,0 +1,4 @@
+youtube channel video : 
+https://www.youtube.com/c/MoreThanCoder
+weather api : https://home.openweathermap.org/
+host of python : https://www.pythonanywhere.com 
